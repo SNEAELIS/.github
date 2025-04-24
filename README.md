@@ -1,19 +1,27 @@
-# Secretaria Nacional de Esporte Amador, Educação, Lazer e Inclusão Social (SNEAELIS) 🇧🇷
+# Secretaria Nacional de Esporte Amador, Educação, Lazer e Inclusão Social
 
-Promovemos inclusão e cidadania por meio do esporte, lazer e educação, com projetos e tecnologias abertas. 
+🎯 Promovemos inclusão e cidadania por meio do esporte, lazer e educação com projetos e tecnologias abertas.
 
-💡 **Missão**: Democratizar o acesso ao esporte e à educação, integrando inovação, políticas públicas e transformação social.
+🌍 Atuação: Brasil  
+📧 Contato: sneaelismesp@gmail.com
 
-👥 **Equipe**
-- Coordenação Geral: Fulano da Silva
-- Desenvolvimento: Beltrano Souza, Ciclana Rocha
-- Contato: [sneaelismesp@gmail.com](mailto:sneaelismesp@gmail.com)
+## Nossos Repositórios
 
-📦 **Repositórios em destaque**
-- [SNEAELIS](https://github.com/SNEAELIS/SNEAELIS): Aplicação principal
-- [Planilha_Custos](https://github.com/SNEAELIS/Planilha_Custos): Sistema de precificação
-- [Form-Merito](https://github.com/SNEAELIS/Form-Merito): Formulário de Mérito
+- 🧠 **[SNEAELIS](https://github.com/SNEAELIS/SNEAELIS)**: Sistema principal
+- 📊 **[Planilha_Custos](https://github.com/SNEAELIS/Planilha_Custos)**: Precificação de eventos
+- 🎯 **[Form-Merito](https://github.com/SNEAELIS/Form-Merito)**: Mérito esportivo
+- 📝 **[Forms](https://github.com/SNEAELIS/Forms)**: Formulários e protótipos
+- 🧪 **[demo-repository](https://github.com/SNEAELIS/demo-repository)** *(privado)*
 
-🌐 **Localização**: Brasil  
-📫 **Contato**: sneaelismesp@gmail.com
+## Equipe Técnica
+
+| Nome          | Função             | GitHub                                               |
+|---------------|--------------------|------------------------------------------------------|
+| Pedro Dias    | Desenvolvedor      | [@pedro dias](https://github.com/pedrodiasprogramer) |
+| Diego Brito   | Desenvolvedor      | [@Diego Brito](https://github.com/)                  |
+| Felipe        | Desenvolvedor      | [@Felipe](https://github.com/)                       |
+
+---
+
+
 

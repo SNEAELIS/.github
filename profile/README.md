@@ -9,7 +9,7 @@
 
 - 🧠 **[SNEAELIS](https://github.com/SNEAELIS/SNEAELIS)**: Sistema principal
 - 📊 **[Planilha_Custos](https://github.com/SNEAELIS/Planilha_Custos)**: Precificação de eventos
-- 🎯 **[Form-Merito]([https://github.com/SNEAELIS/Form-Merito](https://github.com/SNEAELIS/SNEAELIS))**: Mérito esportivo
+- 🎯 **[Form-Merito](https://github.com/SNEAELIS/SNEAELIS)**: Mérito esportivo
 - 📝 **[Forms](https://github.com/SNEAELIS/Forms)**: Formulários e protótipos
 - 🧪 **[demo-repository](https://github.com/SNEAELIS/demo-repository)** *(privado)*
 

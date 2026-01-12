@@ -32,11 +32,12 @@ Ambiente reservado para testes, provas de conceito (PoC) e validação de novas 
 
 ## 👥 Equipe Técnica
 
-| Nome           | Função        | GitHub |
-|----------------|---------------|--------|
-| **Pedro Dias** | Desenvolvedor | [@pedrodias](https://github.com/pedrodias) |
-| **Felipe**     | Desenvolvedor | [@Felipe](https://github.com/Felipe) |
-| **Neto Borges**| Desenvolvedor | [@NetoBorges](https://github.com/NetoBorges) |
+| Nome            | Função        | GitHub |
+|-----------------|---------------|--------|
+| **Pedro Dias**  | Desenvolvedor | [@pedrodias](https://github.com/pedrodias) |
+| **Felipe**      | Desenvolvedor | [@Felipe](https://github.com/Felipe) |
+| **Neto Borges** | Desenvolvedor | [@NetoBorges](https://github.com/NetoBorges) |
+| **Ítalo**       | Desenvolvedor | — |
 
 ---
 

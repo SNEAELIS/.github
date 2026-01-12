@@ -1,27 +1,51 @@
-# Secretaria Nacional de Esporte Amador, Educação, Lazer e Inclusão Social
+# Secretaria Nacional de Esporte Amador, Educação, Lazer e Inclusão Social (SNEAELIS)
 
-🎯 Promovemos inclusão e cidadania por meio do esporte, lazer e educação com projetos e tecnologias abertas.
+🎯 **Missão**  
+Promover a inclusão social, a cidadania e o desenvolvimento humano por meio do esporte, do lazer e da educação, utilizando soluções tecnológicas abertas, acessíveis e inovadoras.
 
-🌍 Atuação: Brasil  
-📧 Contato: sneaelismesp@gmail.com
+🌍 **Abrangência**  
+Atuação em todo o território nacional – Brasil.
 
-## Nossos Repositórios
-
-- 🧠 **[SNEAELIS](https://github.com/SNEAELIS/SNEAELIS)**: Sistema principal
-- 📊 **[Planilha_Custos](https://github.com/SNEAELIS/Planilha_Custos)**: Precificação de eventos
-- 🎯 **[Form-Merito](https://github.com/SNEAELIS/SNEAELIS)**: Mérito esportivo
-- 📝 **[Forms](https://github.com/SNEAELIS/Forms)**: Formulários e protótipos
-- 🧪 **[demo-repository](https://github.com/SNEAELIS/demo-repository)** *(privado)*
-
-## Equipe Técnica
-
-| Nome          | Função             | GitHub                                               |
-|---------------|--------------------|------------------------------------------------------|
-| Pedro Dias    | Desenvolvedor      | [@pedro dias](https://github.com/pedrodiasprogramer) |
-| Diego Brito   | Desenvolvedor      | [@Diego Brito](https://github.com/)                  |
-| Felipe        | Desenvolvedor      | [@Felipe](https://github.com/)                       |
+📧 **Contato Institucional**  
+sneaelismesp@gmail.com
 
 ---
 
+## 📂 Repositórios
 
+🧠 **SNEAELIS**  
+Sistema principal da Secretaria, voltado à gestão, automação e integração de processos relacionados às políticas públicas de esporte, lazer e inclusão social.
 
+📊 **Planilha_Custos**  
+Ferramenta de apoio à precificação e planejamento financeiro de eventos esportivos, educacionais e institucionais.
+
+🎯 **Formulário-Mérito**  
+Sistema destinado à avaliação de mérito esportivo, com foco em critérios técnicos, sociais e institucionais.
+
+📝 **Formulários**  
+Coleção de formulários digitais, protótipos e soluções experimentais para apoio às ações da Secretaria.
+
+🧪 **Repositório de Demonstração** *(privado)*  
+Ambiente reservado para testes, provas de conceito (PoC) e validação de novas funcionalidades.
+
+---
+
+## 👥 Equipe Técnica
+
+| Nome           | Função        | GitHub |
+|----------------|---------------|--------|
+| **Pedro Dias** | Desenvolvedor | [@pedrodias](https://github.com/pedrodias) |
+| **Felipe**     | Desenvolvedor | [@Felipe](https://github.com/Felipe) |
+| **Neto Borges**| Desenvolvedor | [@NetoBorges](https://github.com/NetoBorges) |
+
+---
+
+## 🤝 Colaborações Anteriores
+
+Registramos nosso agradecimento a **Diego Brito**, que contribuiu em etapas iniciais do desenvolvimento e apoiou a estruturação de soluções tecnológicas do projeto.
+
+---
+
+## 📌 Observações
+
+Este repositório segue boas práticas de desenvolvimento, transparência e governança digital, alinhado aos princípios da administração pública, inovação aberta e transformação digital no setor esportivo.

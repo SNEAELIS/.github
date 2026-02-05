@@ -35,7 +35,7 @@ Ambiente reservado para testes, provas de conceito (PoC) e validação de novas 
 | Nome            | Função        | GitHub |
 |-----------------|---------------|--------|
 | **Pedro Dias**  | Desenvolvedor | [@pedrodias](https://github.com/pedrodias) |
-| **Felipe**      | Desenvolvedor | [@Felipe](https://github.com/Felipe) |
+| **Felipe**      | Desenvolvedor | [@Felipe](https://github.com/FelipeR-Souza) |
 | **Neto Borges** | Desenvolvedor | [@NetoBorges](https://github.com/NetoBorges) |
 | **Ítalo**       | Desenvolvedor | — |
 
